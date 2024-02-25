@@ -1,19 +1,19 @@
 {
   "batches": {
     "batch1": {
-      "name": "Arjuna JEE 2.0 2023",
-      "slug": "batches/arjuna-jee-20232.0/index.html",
-      "img": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/bbe6d693-7ff6-4daf-ad0f-a8469038cc1b.png"
-    },
-    "batch2": {
-      "name": "Arjuna JEE 3.0 2023",
-      "slug": "batches/arjuna-jee-2023.0/index.html",
-      "img": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/8ae75dcf-2d2e-4fe6-897e-1e6e13efd06d.png"
-    },
-    "batch3": {
       "name": "Arjuna JEE 2023",
       "slug": "batches/arjuna-jee-20231.0/index.html",
       "img": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/b6de786f-81d5-46bb-b149-6e3d5f19f228.png"
+    },
+    "batch2": {
+     "name": "Arjuna JEE 2.0 2023",
+      "slug": "batches/arjuna-jee-20232.0/index.html",
+      "img": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/bbe6d693-7ff6-4daf-ad0f-a8469038cc1b.png"
+    },
+    "batch3": {
+       "name": "Arjuna JEE 3.0 2023",
+      "slug": "batches/arjuna-jee-2023.0/index.html",
+      "img": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/8ae75dcf-2d2e-4fe6-897e-1e6e13efd06d.png"
     }
   }
 }
