@@ -6,19 +6,19 @@
       "img": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/92fad7d9-b6b7-4128-b28d-41dbcf09093f.png"
     },
     "batch2": {
+      "name": "Yakeen NEET 2025",
+      "slug": "batches/yakeen-neet-2025-951986",
+      "img": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/5a6c83c7-04c2-47ce-bcb4-ccdadb956afe.png"
+    },
+     "batch3": {
+      "name": "Yakeen NEET 2.0 2025",
+      "slug": "batches/yakeen-neet-2-0-2025-801657",
+      "img": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/e5dd30af-ad9e-487c-8700-ea936dacf729.png"
+    },
+    "batch4": {
       "name": "Arjuna JEE 2023",
       "slug": "batches/arjuna-jee-20231.0/index.html",
       "img": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/b6de786f-81d5-46bb-b149-6e3d5f19f228.png"
-    },
-    "batch3": {
-     "name": "Arjuna JEE 2.0 2023",
-      "slug": "batches/arjuna-jee-20232.0/index.html",
-      "img": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/bbe6d693-7ff6-4daf-ad0f-a8469038cc1b.png"
-    },
-    "batch4": {
-       "name": "Arjuna JEE 3.0 2023",
-      "slug": "batches/arjuna-jee-2023.0/index.html",
-      "img": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/8ae75dcf-2d2e-4fe6-897e-1e6e13efd06d.png"
     }
   }
 }
